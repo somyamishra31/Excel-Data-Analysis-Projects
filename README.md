@@ -74,5 +74,5 @@ The goal was to apply the complete data analytics lifecycle — from raw data fo
 - Columns include: `Order ID`, `Order Date`, `Region`, `Product Category`, `Sales`, `Profit`, `Customer Name`, `Salesperson`, `Payment Mode`.
 
 ## 🔹 Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](./_DashBoard.png)
 
